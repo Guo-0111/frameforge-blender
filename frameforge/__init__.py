@@ -10,7 +10,7 @@ import os
 
 bl_info = {
     "name": "FrameForge - AI Video Camera Kit",
-    "author": "TODO Your Name",
+    "author": "Zimeng Guo",
     "version": (1, 0, 0),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > FrameForge",
