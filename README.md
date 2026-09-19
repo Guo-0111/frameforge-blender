@@ -78,9 +78,7 @@ box spends most of the dynamic range on empty space and washes the subject out
 to flat white. There is a manual range override for scenes where a distant
 floor still eats the range.
 
-**The full version is coming to Superhive shortly.** It adds the other
-eight camera moves, depth and normal passes, MP4 motion previews and
-batch export. Watch or star this repository to hear when it lands.
+[**Get the full version**](https://payhip.com/b/3JNb7) - $29
 
 ## Design notes
 
