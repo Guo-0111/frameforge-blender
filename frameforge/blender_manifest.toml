@@ -4,7 +4,7 @@ id = "frameforge_ai_video_kit_lite"
 version = "1.0.0"
 name = "FrameForge Lite - AI Video Camera Kit"
 tagline = "Two cinematic camera moves and first-frame export"
-maintainer = "TODO Your Name <you@example.com>"
+maintainer = "Zimeng Guo <2269771209@qq.com>"
 type = "add-on"
 
 blender_version_min = "4.2.0"
